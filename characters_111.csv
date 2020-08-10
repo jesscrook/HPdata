@@ -1,113 +1,113 @@
-id,name,affiliation,alignment
-0,Harry Potter,dumbledore's army,good
-1,Hermione Granger,dumbledore's army,good
-2,Ron Weasley,dumbledore's army,good
-3,Fred Weasley,dumbledore's army,good
-4,George Weasley,dumbledore's army,good
-5,Seamus Finnigan,dumbledore's army,good
-6,Dean Thomas,dumbledore's army,good
-7,Neville Longbottom,dumbledore's army,good
-8,Cho Chang,dumbledore's army,good
-9,Lavender Brown,dumbledore's army,good
-10,Marietta Edgecombe,dumbledore's army,neutral
-11,Mundungus Fletcher,order of the phoenix,good
-12,Aberforth Dumbledore,order of the phoenix,good
-13,Albus Dumbledore,order of the phoenix,good
-14,Bill Weasley,order of the phoenix,good
-15,Frank Longbottom,order of the phoenix,good
-16,Alice Longbottom,order of the phoenix,good
-17,Arthur Weasley,order of the phoenix,good
-18,Molly Weasley,order of the phoenix,good
-19,Rubeus Hagrid,order of the phoenix,good
-20,Remus Lupin,order of the phoenix,good
-21,Minerva McGonagall,order of the phoenix,good
-22,Sirius Black,order of the phoenix,good
-23,Alastor Moody,order of the phoenix,good
-24,James Potter,order of the phoenix,good
-25,Lilly Potter,order of the phoenix,good
-26,Severus Snape,order of the phoenix,good
-27,Fleur Delacour,order of the phoenix,good
-28,Barty Crouch Jr.,death eater,bad
-29,Bellatrix Lestrange,death eater,bad
-30,Lucious Malfoy,death eater,bad
-31,Narcissa Malfoy,death eater,bad
-32,Peter Pettigrew,death eater,bad
-33,Vincent Crabbe Sr.,death eater,bad
-34,Goyle Sr.,death eater,bad
-35,Lord Voldemort,death eater,bad
-36,Vincent Crabbe Jr.,slytherin,bad
-37,Gregory Goyle,slytherin,bad
-38,Draco Malfoy,slytherin,bad
-39,Pansy Parkinson,slytherin,bad
-40,Barty Crouch Sr.,ministry of magic,neutral
-41,Dolores Umbridge,ministry of magic,bad
-42,Cornelius Fudge,ministry of magic,neutral
-43,Rufus Scrimgeour,ministry of magic,neutral
-44,Ludo Bagman,ministry of magic,neutral
-45,Pius Thicknesse,ministry of magic,bad
-46,Dudley Dursley,muggle,neutral
-47,Petunia Dursley,muggle,neutral
-48,Vernon Dursley,muggle,neutral
-49,Rita Skeeter,none,neutral
-50,Viktor Krum,none,good
-51,Fluffy,none,neutral
-52,Hedwig,none,good
-53,Aragog,none,neutral
-54,Grawp,none,neutral
-55,Olympe Maxime,none,good
-56,Regulus Black,none,neutral
-57,Cedric Diggory,none,good
-58,Igor Karkaroff,none,neutral
-59,Ginny Weasley,dumbledore's army,good
-60,Percy Weasley,ministry of magic,good
-61,Charles Weasley,order of the phoenix,good
-62,Lee Jordan,dumbledore's army,good
-63,Oliver Wood,dumbledore's army,good
-64,Angelina Johnson,dumbledore's army,good
-65,Katie Bell,dumbledore's army,good
-66,Alicia Spinnet,dumbledore's army,good
-67,Parvati Patil,dumbledore's army,good
-68,Romilda Vane,dumbledore's army,good
-69,Colin Creevey,dumbledore's army,good
-70,Cormac McLaggen,dumbledore's army,good
-71,Quirinus Quirrell,death eater,bad
-72,Luna Lovegood,dumbledore's army,good
-73,Gilderoy Lockhart,none,good
-74,Filius Flitwick,hogwarts,good
-75,Sybill Treelawney,hogwarts,good
-76,Garrick Ollivander,none,good
-77,Moaning Myrtle,none,good
-78,Padma Patil,dumbledore's army,good
-79,Horace Slughorn,hogwarts,good
-80,Blaise Zabini,slytherin,neutral
-81,Rodolphus Lestrange,death eater,bad
-82,Charity Burbage,hogwarts,good
-83,Firenze,hogwarts,good
-84,Alecto Carrow,death eater,bad
-85,Amycus Carrow,death eater,bad
-86,Helga Hufflepuff,hogwarts,good
-87,Helena Ravenclaw,hogwarts,good
-88,Nymphadora Tonks,order of the phoenix,good
-89,Justin Finch-Fletchley,dumbledore's army,good
-90,Zacharias Smith,dumbledore's army,good
-91,Hannah Abbott,dumbledore's army,good
-92,Ernest Macmillan,dumbledore's army,good
-93,Susan Bones,dumbledore's army,good
-94,Walden Macnair,death eater,bad
-95,Augustus Rookwood,death eater,bad
-96,Antonin Dolohov,death eater,bad
-97,Corban Yaxley,death eater,bad
-98,Kingsley Shacklebolt,order of the phoenix,good
-99,Amos Diggory,ministry of magic,good
-100,Dedalus Diggle,order of the phoenix,good
-101,Elphias Doge,order of the phoenix,good
-102,Gabrielle Delacour,none,good
-103,Marge Dursley,muggle,good
-104,Dennis Creevey,dumbledore's army,good
-105,Argus Filch,hogwarts,good
-106,Poppy Pomfrey,hogwarts,good
-107,Rolanda Hooch,hogwarts,good
-108,Fenrir Greyback,death eater,bad
-109,Gellert Grindelwald,evil,bad
-110,Dobby,order of the phoenix,good
-111,Kreacher,lestrange family,neutral
+id,name,affiliation,alignment,notes
+0,Harry Potter,dumbledore's army,good,main character
+1,Hermione Granger,dumbledore's army,good,"best friend of harry, dumbledores army"
+2,Ron Weasley,dumbledore's army,good,"best friend of harry, dumbledores army"
+3,Fred Weasley,dumbledore's army,good,"dumbledores army, quidditch, order of the phoenix"
+4,George Weasley,dumbledore's army,good,"dumbledores army, quidditch, order of the phoenix, killed in battle of hogwarts"
+5,Seamus Finnigan,dumbledore's army,good,"dumbledores army, pyrotechnics"
+6,Dean Thomas,dumbledore's army,good,"dumbledores army, dates ginny"
+7,Neville Longbottom,dumbledore's army,good,dumbledores army
+8,Cho Chang,dumbledore's army,good,"dumbledores army, dates cedric and harry"
+9,Lavender Brown,dumbledore's army,good,"dumbledores army, dates ron, killed in battle of hogwarts"
+10,Marietta Edgecombe,dumbledore's army,neutral,"dumbledores army, friends with Cho, rats out DA"
+11,Mundungus Fletcher,order of the phoenix,neutral,"common theif, order of the phoenix"
+12,Aberforth Dumbledore,order of the phoenix,good,dumbledores brother
+13,Albus Dumbledore,order of the phoenix,good,"order of the phoenix, headminister of hogwarts"
+14,Bill Weasley,order of the phoenix,good,"order of the phoenix, marries Fleur"
+15,Frank Longbottom,order of the phoenix,good,"auror, tortured by the lestranges"
+16,Alice Longbottom,order of the phoenix,good,"auror, tortured by the lestranges"
+17,Arthur Weasley,order of the phoenix,good,"order of the phoenix, ministry"
+18,Molly Weasley,order of the phoenix,good,"order of the phoenix, kills bellatrix"
+19,Rubeus Hagrid,order of the phoenix,good,"hogwarts,order of the phoenix"
+20,Remus Lupin,order of the phoenix,good,"order of the phoenix, werewolf, dies in battle of hogwarts"
+21,Minerva McGonagall,order of the phoenix,good,hogwarts 
+22,Sirius Black,order of the phoenix,good,"order of the phoenix, godfather to harry, anamagus"
+23,Alastor Moody,order of the phoenix,good,"auror, order of the phoenix, "
+24,James Potter,order of the phoenix,good,"auror, harrys parent, murdered by voldemort"
+25,Lilly Potter,order of the phoenix,good,"auror, harrys parent, murdered by voldemort"
+26,Severus Snape,order of the phoenix,good,"double agent, hogwarts, order of the phoenix"
+27,Fleur Delacour,order of the phoenix,good,"married to bill, triwizard tournament"
+28,Barty Crouch Jr.,death eater,bad,"posed as moody, killed his father"
+29,Bellatrix Lestrange,death eater,bad,"killed dobby, tortured longbottoms"
+30,Lucious Malfoy,death eater,bad,father to draco
+31,Narcissa Malfoy,death eater,bad,mother to draco
+32,Peter Pettigrew,death eater,bad,"scabbers, voldemorts right hand man"
+33,Vincent Crabbe Sr.,death eater,bad,death eater
+34,Goyle Sr.,death eater,bad,death eater
+35,Lord Voldemort,death eater,bad,killed everyone
+36,Vincent Crabbe Jr.,slytherin,bad,dracos best friend
+37,Gregory Goyle,slytherin,bad,dracos best friend
+38,Draco Malfoy,slytherin,bad,tried to kill dumbledore
+39,Pansy Parkinson,slytherin,bad,dracos friend
+40,Barty Crouch Sr.,ministry of magic,neutral,"minister of magic, murdered by his son"
+41,Dolores Umbridge,ministry of magic,bad,"worked for fudge, hates dumbledore"
+42,Cornelius Fudge,ministry of magic,neutral,minister of magic
+43,Rufus Scrimgeour,ministry of magic,neutral,"former auror, minister of magic"
+44,Ludo Bagman,ministry of magic,neutral,"ministry, gambler, commentator for quidditch"
+45,Pius Thicknesse,ministry of magic,bad,"Cursed and controlled by the death eaters, minster of magic"
+46,Dudley Dursley,muggle,neutral,"muggle, harrys cousin"
+47,Petunia Dursley,muggle,neutral,"muggle, harrys aunt"
+48,Vernon Dursley,muggle,neutral,"muggle, harrys uncle"
+49,Rita Skeeter,none,neutral,"reporter, anamagus"
+50,Viktor Krum,none,good,"quidditch player, dates Hermione"
+51,Fluffy,none,neutral,3 headed dog
+52,Hedwig,none,good,Harry's owl
+53,Aragog,none,neutral,Spider in the Forbidden Forest
+54,Grawp,none,neutral,"Hagrids half brother, giant"
+55,Olympe Maxime,none,good,Headmistress of Beauxbaton
+56,Regulus Black,none,neutral,"Death eater turned good, first to try to destroy the locket"
+57,Cedric Diggory,none,good,Killed by dumbledore in the triwizard tournament
+58,Igor Karkaroff,none,neutral,"former deatheater, headmaster of durmstrang"
+59,Ginny Weasley,dumbledore's army,good,"Dumbledores aemy, marries harry"
+60,Percy Weasley,ministry of magic,good,works for the ministry
+61,Charles Weasley,order of the phoenix,good,trains dragons
+62,Lee Jordan,dumbledore's army,good,"Dumbledores army, quidditch commentator"
+63,Oliver Wood,dumbledore's army,good,"Dumbledores army, gryffindor quidditch captain"
+64,Angelina Johnson,dumbledore's army,good,"Dumbledores army, gryffindor quidditch"
+65,Katie Bell,dumbledore's army,good,"Dumbledores army, gryffindor quidditch"
+66,Alicia Spinnet,dumbledore's army,good,"Dumbledores army, gryffindor quidditch"
+67,Parvati Patil,dumbledore's army,good,"Dumbledores army, went to triwizards ball with Harry"
+68,Romilda Vane,dumbledore's army,good,Gave a love potion to Harry
+69,Colin Creevey,dumbledore's army,good,"Gryffindor, photography"
+70,Cormac McLaggen,dumbledore's army,good,"Gryffindor, from an important family"
+71,Quirinus Quirrell,death eater,bad,"Defense against dark arts, had Voldemort on his head"
+72,Luna Lovegood,dumbledore's army,good,Dumbledores Army
+73,Gilderoy Lockhart,none,good,"Defense against dark arts, lost his memory"
+74,Filius Flitwick,hogwarts,good,Hogwarts
+75,Sybill Treelawney,hogwarts,good,"Hogwarts, prophetess"
+76,Garrick Ollivander,none,good,Wand maker
+77,Moaning Myrtle,none,good,"Ghost, killed by tom riddle"
+78,Padma Patil,dumbledore's army,good,"Dumbledores Army, went to triwizards ball with Ron"
+79,Horace Slughorn,hogwarts,good,"Order of the Phoenix, Hogwarts"
+80,Blaise Zabini,slytherin,neutral,Friends with Malfoy
+81,Rodolphus Lestrange,death eater,bad,husband to Bellatrix
+82,Charity Burbage,hogwarts,good,"muggle studies, murdered by voldemort"
+83,Firenze,hogwarts,good,"Centaur, fought in the battle of hogwarts"
+84,Alecto Carrow,death eater,bad,Running hogwarts for voldemort
+85,Amycus Carrow,death eater,bad,Running hogwarts for voldemort
+86,Helga Hufflepuff,hogwarts,good,Founder of hufflepuff
+87,Helena Ravenclaw,hogwarts,good,Ghost of ravenclaw
+88,Nymphadora Tonks,order of the phoenix,good,"Order of the Phoenix, married to Lupin, died in battle of hogwarts"
+89,Justin Finch-Fletchley,dumbledore's army,good,Dumbledores Army
+90,Zacharias Smith,dumbledore's army,good,Family doubted Harry
+91,Hannah Abbott,dumbledore's army,good,Dumbledores Army
+92,Ernest Macmillan,dumbledore's army,good,"Ravenclaw, Dumbeldores Army"
+93,Susan Bones,dumbledore's army,good,Family murdered by Voldemort
+94,Walden Macnair,death eater,bad,fantastical beast executioner
+95,Augustus Rookwood,death eater,bad,fought harry at the coffee shop
+96,Antonin Dolohov,death eater,bad,fought harry at the coffee shop
+97,Corban Yaxley,death eater,bad,death eater
+98,Kingsley Shacklebolt,order of the phoenix,good,works for the ministry
+99,Amos Diggory,ministry of magic,good,father to Cedric
+100,Dedalus Diggle,order of the phoenix,good,"quidditch player, auror"
+101,Elphias Doge,order of the phoenix,good,said to have been a great auror
+102,Gabrielle Delacour,none,good,sister to Fleur
+103,Marge Dursley,muggle,good,Vernon Durselys sister
+104,Dennis Creevey,dumbledore's army,good,Colins younger brother
+105,Argus Filch,hogwarts,good,"Squib, hogwarts"
+106,Poppy Pomfrey,hogwarts,good,Hogwarts nurse
+107,Rolanda Hooch,hogwarts,good,Hogwarts flying professor
+108,Fenrir Greyback,death eater,bad,Full time werewolf
+109,Gellert Grindelwald,evil,bad,"Former evil leader of the world, defeated by Dumbledore"
+110,Dobby,order of the phoenix,good,Elf formerly owned by malfoys
+111,Kreacher,lestrange family,neutral,Elf loyal to Regulus 
